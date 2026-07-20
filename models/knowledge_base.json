@@ -1,0 +1,1848 @@
+{
+  "ragas": [
+    {
+      "name": "Kanakangi",
+      "number": 1,
+      "chakra": "Indu",
+      "aroha": "S R1 G1 M1 P D1 N1 S",
+      "avaroha": "S N1 D1 P M1 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "solemn",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Ratnangi",
+      "number": 2,
+      "chakra": "Indu",
+      "aroha": "S R1 G1 M1 P D1 N2 S",
+      "avaroha": "S N2 D1 P M1 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "gentle",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Ganamurti",
+      "number": 3,
+      "chakra": "Indu",
+      "aroha": "S R1 G1 M1 P D1 N3 S",
+      "avaroha": "S N3 D1 P M1 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "devotional",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Vanaspati",
+      "number": 4,
+      "chakra": "Indu",
+      "aroha": "S R1 G1 M1 P D2 N2 S",
+      "avaroha": "S N2 D2 P M1 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "meditative",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Manavati",
+      "number": 5,
+      "chakra": "Indu",
+      "aroha": "S R1 G1 M1 P D2 N3 S",
+      "avaroha": "S N3 D2 P M1 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "contemplative",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Tanarupi",
+      "number": 6,
+      "chakra": "Indu",
+      "aroha": "S R1 G1 M1 P D3 N3 S",
+      "avaroha": "S N3 D3 P M1 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "profound",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Senavati",
+      "number": 7,
+      "chakra": "Netra",
+      "aroha": "S R1 G2 M1 P D1 N1 S",
+      "avaroha": "S N1 D1 P M1 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "peaceful",
+      "gamakas": [
+        "kampita",
+        "spurita"
+      ]
+    },
+    {
+      "name": "Hanumatodi",
+      "number": 8,
+      "chakra": "Netra",
+      "aroha": "S R1 G2 M1 P D1 N2 S",
+      "avaroha": "S N2 D1 P M1 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "devotional",
+      "gamakas": [
+        "kampita",
+        "andola"
+      ]
+    },
+    {
+      "name": "Dhenuka",
+      "number": 9,
+      "chakra": "Netra",
+      "aroha": "S R1 G2 M1 P D1 N3 S",
+      "avaroha": "S N3 D1 P M1 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "valorous",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Natakapriya",
+      "number": 10,
+      "chakra": "Netra",
+      "aroha": "S R1 G2 M1 P D2 N2 S",
+      "avaroha": "S N2 D2 P M1 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "dramatic",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Kokilapriya",
+      "number": 11,
+      "chakra": "Netra",
+      "aroha": "S R1 G2 M1 P D2 N3 S",
+      "avaroha": "S N3 D2 P M1 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "playful",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Rupavati",
+      "number": 12,
+      "chakra": "Netra",
+      "aroha": "S R1 G2 M1 P D3 N3 S",
+      "avaroha": "S N3 D3 P M1 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "charming",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Gayakapriya",
+      "number": 13,
+      "chakra": "Agni",
+      "aroha": "S R1 G3 M1 P D1 N1 S",
+      "avaroha": "S N1 D1 P M1 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "serene",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Vakulabharanam",
+      "number": 14,
+      "chakra": "Agni",
+      "aroha": "S R1 G3 M1 P D1 N2 S",
+      "avaroha": "S N2 D1 P M1 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "affectionate",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Mayamalavagowla",
+      "number": 15,
+      "chakra": "Agni",
+      "aroha": "S R1 G3 M1 P D1 N3 S",
+      "avaroha": "S N3 D1 P M1 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "solemn",
+      "gamakas": [
+        "kampita",
+        "spurita",
+        "andola"
+      ]
+    },
+    {
+      "name": "Chakravakam",
+      "number": 16,
+      "chakra": "Agni",
+      "aroha": "S R1 G3 M1 P D2 N2 S",
+      "avaroha": "S N2 D2 P M1 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "romantic",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Suryakantam",
+      "number": 17,
+      "chakra": "Agni",
+      "aroha": "S R1 G3 M1 P D2 N3 S",
+      "avaroha": "S N3 D2 P M1 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "bright",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Hatakambari",
+      "number": 18,
+      "chakra": "Agni",
+      "aroha": "S R1 G3 M1 P D3 N3 S",
+      "avaroha": "S N3 D3 P M1 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "majestic",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Jhankaradhwani",
+      "number": 19,
+      "chakra": "Veda",
+      "aroha": "S R2 G2 M1 P D1 N1 S",
+      "avaroha": "S N1 D1 P M1 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "resonant",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Natabhairavi",
+      "number": 20,
+      "chakra": "Veda",
+      "aroha": "S R2 G2 M1 P D1 N2 S",
+      "avaroha": "S N2 D1 P M1 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "grand",
+      "gamakas": [
+        "kampita",
+        "andola"
+      ]
+    },
+    {
+      "name": "Keeravani",
+      "number": 21,
+      "chakra": "Veda",
+      "aroha": "S R2 G2 M1 P D1 N3 S",
+      "avaroha": "S N3 D1 P M1 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "melancholic",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Kharaharapriya",
+      "number": 22,
+      "chakra": "Veda",
+      "aroha": "S R2 G2 M1 P D2 N2 S",
+      "avaroha": "S N2 D2 P M1 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "versatile",
+      "gamakas": [
+        "kampita",
+        "spurita"
+      ]
+    },
+    {
+      "name": "Gourimanohari",
+      "number": 23,
+      "chakra": "Veda",
+      "aroha": "S R2 G2 M1 P D2 N3 S",
+      "avaroha": "S N3 D2 P M1 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "gentle",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Varunapriya",
+      "number": 24,
+      "chakra": "Veda",
+      "aroha": "S R2 G2 M1 P D3 N3 S",
+      "avaroha": "S N3 D3 P M1 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "deep",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Mararanjani",
+      "number": 25,
+      "chakra": "Bana",
+      "aroha": "S R2 G3 M1 P D1 N1 S",
+      "avaroha": "S N1 D1 P M1 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "sweet",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Charukesi",
+      "number": 26,
+      "chakra": "Bana",
+      "aroha": "S R2 G3 M1 P D1 N2 S",
+      "avaroha": "S N2 D1 P M1 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "tender",
+      "gamakas": [
+        "kampita",
+        "spurita"
+      ]
+    },
+    {
+      "name": "Sarasangi",
+      "number": 27,
+      "chakra": "Bana",
+      "aroha": "S R2 G3 M1 P D1 N3 S",
+      "avaroha": "S N3 D1 P M1 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "beautiful",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Harikamboji",
+      "number": 28,
+      "chakra": "Bana",
+      "aroha": "S R2 G3 M1 P D2 N2 S",
+      "avaroha": "S N2 D2 P M1 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "charming",
+      "gamakas": [
+        "kampita",
+        "spurita"
+      ]
+    },
+    {
+      "name": "Dheerasankarabharanam",
+      "number": 29,
+      "chakra": "Bana",
+      "aroha": "S R2 G3 M1 P D2 N3 S",
+      "avaroha": "S N3 D2 P M1 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "majestic",
+      "gamakas": [
+        "kampita",
+        "spurita",
+        "andola"
+      ]
+    },
+    {
+      "name": "Naganandini",
+      "number": 30,
+      "chakra": "Bana",
+      "aroha": "S R2 G3 M1 P D3 N3 S",
+      "avaroha": "S N3 D3 P M1 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "dignified",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Yagapriya",
+      "number": 31,
+      "chakra": "Rutu",
+      "aroha": "S R3 G3 M1 P D1 N1 S",
+      "avaroha": "S N1 D1 P M1 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "auspicious",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Ragavardhini",
+      "number": 32,
+      "chakra": "Rutu",
+      "aroha": "S R3 G3 M1 P D1 N2 S",
+      "avaroha": "S N2 D1 P M1 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "expansive",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Gangeyabhushani",
+      "number": 33,
+      "chakra": "Rutu",
+      "aroha": "S R3 G3 M1 P D1 N3 S",
+      "avaroha": "S N3 D1 P M1 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "grand",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Vagadheeswari",
+      "number": 34,
+      "chakra": "Rutu",
+      "aroha": "S R3 G3 M1 P D2 N2 S",
+      "avaroha": "S N2 D2 P M1 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "powerful",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Sulini",
+      "number": 35,
+      "chakra": "Rutu",
+      "aroha": "S R3 G3 M1 P D2 N3 S",
+      "avaroha": "S N3 D2 P M1 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "bold",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Chalanata",
+      "number": 36,
+      "chakra": "Rutu",
+      "aroha": "S R3 G3 M1 P D3 N3 S",
+      "avaroha": "S N3 D3 P M1 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "dynamic",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Salagam",
+      "number": 37,
+      "chakra": "Rishi",
+      "aroha": "S R1 G1 M2 P D1 N1 S",
+      "avaroha": "S N1 D1 P M2 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "meditative",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Jalarnavam",
+      "number": 38,
+      "chakra": "Rishi",
+      "aroha": "S R1 G1 M2 P D1 N2 S",
+      "avaroha": "S N2 D1 P M2 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "fluid",
+      "gamakas": [
+        "andola"
+      ]
+    },
+    {
+      "name": "Jhalavarali",
+      "number": 39,
+      "chakra": "Rishi",
+      "aroha": "S R1 G1 M2 P D1 N3 S",
+      "avaroha": "S N3 D1 P M2 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "intense",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Navanitam",
+      "number": 40,
+      "chakra": "Rishi",
+      "aroha": "S R1 G1 M2 P D2 N2 S",
+      "avaroha": "S N2 D2 P M2 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "buttery",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Pavani",
+      "number": 41,
+      "chakra": "Rishi",
+      "aroha": "S R1 G1 M2 P D2 N3 S",
+      "avaroha": "S N3 D2 P M2 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "pure",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Raghupriya",
+      "number": 42,
+      "chakra": "Rishi",
+      "aroha": "S R1 G1 M2 P D3 N3 S",
+      "avaroha": "S N3 D3 P M2 G1 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "noble",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Gavambodhi",
+      "number": 43,
+      "chakra": "Aditya",
+      "aroha": "S R1 G2 M2 P D1 N1 S",
+      "avaroha": "S N1 D1 P M2 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "mystical",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Bhavapriya",
+      "number": 44,
+      "chakra": "Aditya",
+      "aroha": "S R1 G2 M2 P D1 N2 S",
+      "avaroha": "S N2 D1 P M2 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "loving",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Subhapantuvarali",
+      "number": 45,
+      "chakra": "Aditya",
+      "aroha": "S R1 G2 M2 P D1 N3 S",
+      "avaroha": "S N3 D1 P M2 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "auspicious",
+      "gamakas": [
+        "spurita",
+        "andola"
+      ]
+    },
+    {
+      "name": "Shadvidamargini",
+      "number": 46,
+      "chakra": "Aditya",
+      "aroha": "S R1 G2 M2 P D2 N2 S",
+      "avaroha": "S N2 D2 P M2 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "exploratory",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Suvarnangi",
+      "number": 47,
+      "chakra": "Aditya",
+      "aroha": "S R1 G2 M2 P D2 N3 S",
+      "avaroha": "S N3 D2 P M2 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "golden",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Divyamani",
+      "number": 48,
+      "chakra": "Aditya",
+      "aroha": "S R1 G2 M2 P D3 N3 S",
+      "avaroha": "S N3 D3 P M2 G2 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "divine",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Dhavalambari",
+      "number": 49,
+      "chakra": "Brahma",
+      "aroha": "S R1 G3 M2 P D1 N1 S",
+      "avaroha": "S N1 D1 P M2 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "white purity",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Namanarayani",
+      "number": 50,
+      "chakra": "Brahma",
+      "aroha": "S R1 G3 M2 P D1 N2 S",
+      "avaroha": "S N2 D1 P M2 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "devotional",
+      "gamakas": [
+        "kampita",
+        "spurita"
+      ]
+    },
+    {
+      "name": "Kamavardhini",
+      "number": 51,
+      "chakra": "Brahma",
+      "aroha": "S R1 G3 M2 P D1 N3 S",
+      "avaroha": "S N3 D1 P M2 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "passionate",
+      "gamakas": [
+        "andola"
+      ]
+    },
+    {
+      "name": "Ramapriya",
+      "number": 52,
+      "chakra": "Brahma",
+      "aroha": "S R1 G3 M2 P D2 N2 S",
+      "avaroha": "S N2 D2 P M2 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "pleasing",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Gamanasrama",
+      "number": 53,
+      "chakra": "Brahma",
+      "aroha": "S R1 G3 M2 P D2 N3 S",
+      "avaroha": "S N3 D2 P M2 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "journeying",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Vishwambari",
+      "number": 54,
+      "chakra": "Brahma",
+      "aroha": "S R1 G3 M2 P D3 N3 S",
+      "avaroha": "S N3 D3 P M2 G3 R1 S",
+      "chroma": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "universal",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Syamalangi",
+      "number": 55,
+      "chakra": "Disi",
+      "aroha": "S R2 G2 M2 P D1 N1 S",
+      "avaroha": "S N1 D1 P M2 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "dark beauty",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Shanmukhapriya",
+      "number": 56,
+      "chakra": "Disi",
+      "aroha": "S R2 G2 M2 P D1 N2 S",
+      "avaroha": "S N2 D1 P M2 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "six-faced",
+      "gamakas": [
+        "kampita",
+        "spurita"
+      ]
+    },
+    {
+      "name": "Simhendramadhyamam",
+      "number": 57,
+      "chakra": "Disi",
+      "aroha": "S R2 G2 M2 P D1 N3 S",
+      "avaroha": "S N3 D1 P M2 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "regal lion",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Hemavati",
+      "number": 58,
+      "chakra": "Disi",
+      "aroha": "S R2 G2 M2 P D2 N2 S",
+      "avaroha": "S N2 D2 P M2 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "golden goddess",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Dharmavati",
+      "number": 59,
+      "chakra": "Disi",
+      "aroha": "S R2 G2 M2 P D2 N3 S",
+      "avaroha": "S N3 D2 P M2 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "righteous",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Neetimati",
+      "number": 60,
+      "chakra": "Disi",
+      "aroha": "S R2 G2 M2 P D3 N3 S",
+      "avaroha": "S N3 D3 P M2 G2 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "ethical",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Kantamani",
+      "number": 61,
+      "chakra": "Rudra",
+      "aroha": "S R2 G3 M2 P D1 N1 S",
+      "avaroha": "S N1 D1 P M2 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "gem-like",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Rishabhapriya",
+      "number": 62,
+      "chakra": "Rudra",
+      "aroha": "S R2 G3 M2 P D1 N2 S",
+      "avaroha": "S N2 D1 P M2 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "bull-like",
+      "gamakas": [
+        "kampita",
+        "spurita"
+      ]
+    },
+    {
+      "name": "Latangi",
+      "number": 63,
+      "chakra": "Rudra",
+      "aroha": "S R2 G3 M2 P D1 N3 S",
+      "avaroha": "S N3 D1 P M2 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "creeping vine",
+      "gamakas": [
+        "andola"
+      ]
+    },
+    {
+      "name": "Vachaspati",
+      "number": 64,
+      "chakra": "Rudra",
+      "aroha": "S R2 G3 M2 P D2 N2 S",
+      "avaroha": "S N2 D2 P M2 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "eloquent",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Mechakalyani",
+      "number": 65,
+      "chakra": "Rudra",
+      "aroha": "S R2 G3 M2 P D2 N3 S",
+      "avaroha": "S N3 D2 P M2 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "romantic",
+      "gamakas": [
+        "kampita",
+        "spurita"
+      ]
+    },
+    {
+      "name": "Chitrambari",
+      "number": 66,
+      "chakra": "Rudra",
+      "aroha": "S R2 G3 M2 P D3 N3 S",
+      "avaroha": "S N3 D3 P M2 G3 R2 S",
+      "chroma": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "picturesque",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Sucharitra",
+      "number": 67,
+      "chakra": "Aditya2",
+      "aroha": "S R3 G3 M2 P D1 N1 S",
+      "avaroha": "S N1 D1 P M2 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "mood": "virtuous",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Jyotiswarupini",
+      "number": 68,
+      "chakra": "Aditya2",
+      "aroha": "S R3 G3 M2 P D1 N2 S",
+      "avaroha": "S N2 D1 P M2 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1
+      ],
+      "mood": "luminous",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Dhatupanchakam",
+      "number": 69,
+      "chakra": "Aditya2",
+      "aroha": "S R3 G3 M2 P D1 N3 S",
+      "avaroha": "S N3 D1 P M2 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mood": "elemental",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Nasikabhushani",
+      "number": 70,
+      "chakra": "Aditya2",
+      "aroha": "S R3 G3 M2 P D2 N2 S",
+      "avaroha": "S N2 D2 P M2 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "mood": "nasal resonance",
+      "gamakas": [
+        "kampita"
+      ]
+    },
+    {
+      "name": "Kosalam",
+      "number": 71,
+      "chakra": "Aditya2",
+      "aroha": "S R3 G3 M2 P D2 N3 S",
+      "avaroha": "S N3 D2 P M2 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "mood": "regional",
+      "gamakas": [
+        "spurita"
+      ]
+    },
+    {
+      "name": "Rasikapriya",
+      "number": 72,
+      "chakra": "Aditya2",
+      "aroha": "S R3 G3 M2 P D3 N3 S",
+      "avaroha": "S N3 D3 P M2 G3 R3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mood": "connoisseur's delight",
+      "gamakas": [
+        "kampita",
+        "spurita",
+        "andola"
+      ]
+    },
+    {
+      "name": "Madhukauns",
+      "number": 73,
+      "chakra": "Hindustani",
+      "aroha": "S G3 M1 D3 N3 S",
+      "avaroha": "S N3 D3 M1 G3 S",
+      "chroma": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "mood": "valorous/romantic",
+      "gamakas": [
+        "meend",
+        "gamak"
+      ],
+      "note": "Hindustani raga. Pentatonic: no Ri, no Pa. Thaat: ambiguous (Kafi/Bhairavi)"
+    }
+  ]
+}

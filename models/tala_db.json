@@ -1,0 +1,76 @@
+{
+  "_source": "https://www.karnatik.com/taalatable.shtml",
+  "_ref": "Suladi Sapta Tala system — 7 parent talas × 5 jaatis = 35 talas",
+  "_components": {
+    "I": {"name":"Laghu",     "symbol":"I","beats":"jaati-dependent (3/4/5/7/9)","gesture":"clap + finger counts"},
+    "O": {"name":"Drutam",    "symbol":"O","beats":2, "gesture":"clap + wave"},
+    "U": {"name":"Anudrutam", "symbol":"U","beats":1, "gesture":"clap only"}
+  },
+  "_jaatis": {
+    "tisra":    {"beats":3,"alternateNames":["Tryasra"]},
+    "chatusra": {"beats":4,"alternateNames":["Chaturasra"]},
+    "khanda":   {"beats":5,"alternateNames":["Kanda"]},
+    "misra":    {"beats":7,"alternateNames":["Mishra"]},
+    "sankeerna":{"beats":9,"alternateNames":["Sankirna","Sankeernam"]}
+  },
+  "talas": [
+    {"id":1,  "parent":"Dhruva",  "jaati":"tisra",    "name":"Tisra Jati Dhruva Tala",    "angas":"I O I I","beats":11,"pattern":[3,2,3,3],"beatPattern":"3+2+3+3","aksharas":11,"commonName":"Dhruva Tisra",    "vibhagam":[3,2,3,3],"kriyas":["clap","wave","clap","clap"]},
+    {"id":2,  "parent":"Dhruva",  "jaati":"chatusra", "name":"Chatusra Jati Dhruva Tala", "angas":"I O I I","beats":14,"pattern":[4,2,4,4],"beatPattern":"4+2+4+4","aksharas":14,"commonName":"Dhruva",         "vibhagam":[4,2,4,4],"kriyas":["clap","wave","clap","clap"]},
+    {"id":3,  "parent":"Dhruva",  "jaati":"khanda",   "name":"Khanda Jati Dhruva Tala",   "angas":"I O I I","beats":17,"pattern":[5,2,5,5],"beatPattern":"5+2+5+5","aksharas":17,"commonName":"Dhruva Khanda",   "vibhagam":[5,2,5,5],"kriyas":["clap","wave","clap","clap"]},
+    {"id":4,  "parent":"Dhruva",  "jaati":"misra",    "name":"Misra Jati Dhruva Tala",    "angas":"I O I I","beats":23,"pattern":[7,2,7,7],"beatPattern":"7+2+7+7","aksharas":23,"commonName":"Dhruva Misra",    "vibhagam":[7,2,7,7],"kriyas":["clap","wave","clap","clap"]},
+    {"id":5,  "parent":"Dhruva",  "jaati":"sankeerna","name":"Sankeerna Jati Dhruva Tala","angas":"I O I I","beats":29,"pattern":[9,2,9,9],"beatPattern":"9+2+9+9","aksharas":29,"commonName":"Dhruva Sankeerna","vibhagam":[9,2,9,9],"kriyas":["clap","wave","clap","clap"]},
+
+    {"id":6,  "parent":"Matya",   "jaati":"tisra",    "name":"Tisra Jati Matya Tala",    "angas":"I O I","beats":8, "pattern":[3,2,3],"beatPattern":"3+2+3","aksharas":8, "commonName":"Matya Tisra",    "vibhagam":[3,2,3],"kriyas":["clap","wave","clap"]},
+    {"id":7,  "parent":"Matya",   "jaati":"chatusra", "name":"Chatusra Jati Matya Tala", "angas":"I O I","beats":10,"pattern":[4,2,4],"beatPattern":"4+2+4","aksharas":10,"commonName":"Matya",         "vibhagam":[4,2,4],"kriyas":["clap","wave","clap"]},
+    {"id":8,  "parent":"Matya",   "jaati":"khanda",   "name":"Khanda Jati Matya Tala",   "angas":"I O I","beats":12,"pattern":[5,2,5],"beatPattern":"5+2+5","aksharas":12,"commonName":"Matya Khanda",   "vibhagam":[5,2,5],"kriyas":["clap","wave","clap"]},
+    {"id":9,  "parent":"Matya",   "jaati":"misra",    "name":"Misra Jati Matya Tala",    "angas":"I O I","beats":16,"pattern":[7,2,7],"beatPattern":"7+2+7","aksharas":16,"commonName":"Matya Misra",    "vibhagam":[7,2,7],"kriyas":["clap","wave","clap"]},
+    {"id":10, "parent":"Matya",   "jaati":"sankeerna","name":"Sankeerna Jati Matya Tala","angas":"I O I","beats":20,"pattern":[9,2,9],"beatPattern":"9+2+9","aksharas":20,"commonName":"Matya Sankeerna","vibhagam":[9,2,9],"kriyas":["clap","wave","clap"]},
+
+    {"id":11, "parent":"Rupaka",  "jaati":"tisra",    "name":"Tisra Jati Rupaka Tala",    "angas":"O I","beats":5, "pattern":[2,3],"beatPattern":"2+3","aksharas":5, "commonName":"Rupaka Tisra",    "vibhagam":[2,3],"kriyas":["wave","clap"]},
+    {"id":12, "parent":"Rupaka",  "jaati":"chatusra", "name":"Chatusra Jati Rupaka Tala", "angas":"O I","beats":6, "pattern":[2,4],"beatPattern":"2+4","aksharas":6, "commonName":"Rupaka",         "vibhagam":[2,4],"kriyas":["wave","clap"]},
+    {"id":13, "parent":"Rupaka",  "jaati":"khanda",   "name":"Khanda Jati Rupaka Tala",   "angas":"O I","beats":7, "pattern":[2,5],"beatPattern":"2+5","aksharas":7, "commonName":"Rupaka Khanda",   "vibhagam":[2,5],"kriyas":["wave","clap"]},
+    {"id":14, "parent":"Rupaka",  "jaati":"misra",    "name":"Misra Jati Rupaka Tala",    "angas":"O I","beats":9, "pattern":[2,7],"beatPattern":"2+7","aksharas":9, "commonName":"Rupaka Misra",    "vibhagam":[2,7],"kriyas":["wave","clap"]},
+    {"id":15, "parent":"Rupaka",  "jaati":"sankeerna","name":"Sankeerna Jati Rupaka Tala","angas":"O I","beats":11,"pattern":[2,9],"beatPattern":"2+9","aksharas":11,"commonName":"Rupaka Sankeerna","vibhagam":[2,9],"kriyas":["wave","clap"]},
+
+    {"id":16, "parent":"Jhampa",  "jaati":"tisra",    "name":"Tisra Jati Jhampa Tala",    "angas":"I U O","beats":6, "pattern":[3,1,2],"beatPattern":"3+1+2","aksharas":6, "commonName":"Jhampa Tisra",    "vibhagam":[3,1,2],"kriyas":["clap","clap","wave"]},
+    {"id":17, "parent":"Jhampa",  "jaati":"chatusra", "name":"Chatusra Jati Jhampa Tala", "angas":"I U O","beats":7, "pattern":[4,1,2],"beatPattern":"4+1+2","aksharas":7, "commonName":"Jhampa",         "vibhagam":[4,1,2],"kriyas":["clap","clap","wave"]},
+    {"id":18, "parent":"Jhampa",  "jaati":"khanda",   "name":"Khanda Jati Jhampa Tala",   "angas":"I U O","beats":8, "pattern":[5,1,2],"beatPattern":"5+1+2","aksharas":8, "commonName":"Jhampa Khanda",   "vibhagam":[5,1,2],"kriyas":["clap","clap","wave"]},
+    {"id":19, "parent":"Jhampa",  "jaati":"misra",    "name":"Misra Jati Jhampa Tala",    "angas":"I U O","beats":10,"pattern":[7,1,2],"beatPattern":"7+1+2","aksharas":10,"commonName":"Jhampa Misra",    "vibhagam":[7,1,2],"kriyas":["clap","clap","wave"]},
+    {"id":20, "parent":"Jhampa",  "jaati":"sankeerna","name":"Sankeerna Jati Jhampa Tala","angas":"I U O","beats":12,"pattern":[9,1,2],"beatPattern":"9+1+2","aksharas":12,"commonName":"Jhampa Sankeerna","vibhagam":[9,1,2],"kriyas":["clap","clap","wave"]},
+
+    {"id":21, "parent":"Triputa", "jaati":"tisra",    "name":"Tisra Jati Triputa Tala",    "angas":"I O O","beats":7, "pattern":[3,2,2],"beatPattern":"3+2+2","aksharas":7, "commonName":"Tisra Eka / Khanda Chapu approx","vibhagam":[3,2,2],"kriyas":["clap","wave","wave"]},
+    {"id":22, "parent":"Triputa", "jaati":"chatusra", "name":"Chatusra Jati Triputa Tala", "angas":"I O O","beats":8, "pattern":[4,2,2],"beatPattern":"4+2+2","aksharas":8, "commonName":"Adi Tala",       "vibhagam":[4,2,2],"kriyas":["clap","wave","wave"],"isAdi":true},
+    {"id":23, "parent":"Triputa", "jaati":"khanda",   "name":"Khanda Jati Triputa Tala",   "angas":"I O O","beats":9, "pattern":[5,2,2],"beatPattern":"5+2+2","aksharas":9, "commonName":"Triputa Khanda",   "vibhagam":[5,2,2],"kriyas":["clap","wave","wave"]},
+    {"id":24, "parent":"Triputa", "jaati":"misra",    "name":"Misra Jati Triputa Tala",    "angas":"I O O","beats":11,"pattern":[7,2,2],"beatPattern":"7+2+2","aksharas":11,"commonName":"Triputa Misra",    "vibhagam":[7,2,2],"kriyas":["clap","wave","wave"]},
+    {"id":25, "parent":"Triputa", "jaati":"sankeerna","name":"Sankeerna Jati Triputa Tala","angas":"I O O","beats":13,"pattern":[9,2,2],"beatPattern":"9+2+2","aksharas":13,"commonName":"Triputa Sankeerna","vibhagam":[9,2,2],"kriyas":["clap","wave","wave"]},
+
+    {"id":26, "parent":"Ata",     "jaati":"tisra",    "name":"Tisra Jati Ata Tala",    "angas":"I I O O","beats":10,"pattern":[3,3,2,2],"beatPattern":"3+3+2+2","aksharas":10,"commonName":"Ata Tisra",    "vibhagam":[3,3,2,2],"kriyas":["clap","clap","wave","wave"]},
+    {"id":27, "parent":"Ata",     "jaati":"chatusra", "name":"Chatusra Jati Ata Tala", "angas":"I I O O","beats":12,"pattern":[4,4,2,2],"beatPattern":"4+4+2+2","aksharas":12,"commonName":"Ata",         "vibhagam":[4,4,2,2],"kriyas":["clap","clap","wave","wave"]},
+    {"id":28, "parent":"Ata",     "jaati":"khanda",   "name":"Khanda Jati Ata Tala",   "angas":"I I O O","beats":14,"pattern":[5,5,2,2],"beatPattern":"5+5+2+2","aksharas":14,"commonName":"Ata Khanda",   "vibhagam":[5,5,2,2],"kriyas":["clap","clap","wave","wave"]},
+    {"id":29, "parent":"Ata",     "jaati":"misra",    "name":"Misra Jati Ata Tala",    "angas":"I I O O","beats":18,"pattern":[7,7,2,2],"beatPattern":"7+7+2+2","aksharas":18,"commonName":"Ata Misra",    "vibhagam":[7,7,2,2],"kriyas":["clap","clap","wave","wave"]},
+    {"id":30, "parent":"Ata",     "jaati":"sankeerna","name":"Sankeerna Jati Ata Tala","angas":"I I O O","beats":22,"pattern":[9,9,2,2],"beatPattern":"9+9+2+2","aksharas":22,"commonName":"Ata Sankeerna","vibhagam":[9,9,2,2],"kriyas":["clap","clap","wave","wave"]},
+
+    {"id":31, "parent":"Eka",     "jaati":"tisra",    "name":"Tisra Jati Eka Tala",    "angas":"I","beats":3,"pattern":[3],"beatPattern":"3","aksharas":3,"commonName":"Tisra Eka",    "vibhagam":[3],"kriyas":["clap"]},
+    {"id":32, "parent":"Eka",     "jaati":"chatusra", "name":"Chatusra Jati Eka Tala", "angas":"I","beats":4,"pattern":[4],"beatPattern":"4","aksharas":4,"commonName":"Eka",         "vibhagam":[4],"kriyas":["clap"]},
+    {"id":33, "parent":"Eka",     "jaati":"khanda",   "name":"Khanda Jati Eka Tala",   "angas":"I","beats":5,"pattern":[5],"beatPattern":"5","aksharas":5,"commonName":"Eka Khanda",   "vibhagam":[5],"kriyas":["clap"]},
+    {"id":34, "parent":"Eka",     "jaati":"misra",    "name":"Misra Jati Eka Tala",    "angas":"I","beats":7,"pattern":[7],"beatPattern":"7","aksharas":7,"commonName":"Eka Misra",    "vibhagam":[7],"kriyas":["clap"]},
+    {"id":35, "parent":"Eka",     "jaati":"sankeerna","name":"Sankeerna Jati Eka Tala","angas":"I","beats":9,"pattern":[9],"beatPattern":"9","aksharas":9,"commonName":"Eka Sankeerna","vibhagam":[9],"kriyas":["clap"]}
+  ],
+  "chapuTalas": [
+    {"id":"C1","name":"Misra Chapu",  "beats":7, "pattern":[3,2,2],"beatPattern":"3+2+2","notes":"Informal; 3+2+2 grouping, no laghu/drutam distinction"},
+    {"id":"C2","name":"Khanda Chapu", "beats":5, "pattern":[2,3],  "beatPattern":"2+3",  "notes":"Informal; 2+3 grouping"},
+    {"id":"C3","name":"Tisra Chapu",  "beats":3, "pattern":[3],    "beatPattern":"3",    "notes":"Same as Tisra Eka in practice"},
+    {"id":"C4","name":"Sankeerna Chapu","beats":9,"pattern":[2,3,4],"beatPattern":"2+3+4","notes":"Rare chapu tala"}
+  ],
+  "commonAliases": {
+    "Adi":           {"ref":22,"beats":8, "pattern":[4,2,2],"description":"Most common tala in Carnatic music"},
+    "Rupakam":       {"ref":12,"beats":6, "pattern":[2,4]},
+    "Khanda Chapu":  {"ref":"C2","beats":5,"pattern":[2,3]},
+    "Misra Chapu":   {"ref":"C1","beats":7,"pattern":[3,2,2]},
+    "Ata":           {"ref":27,"beats":12,"pattern":[4,4,2,2]},
+    "Jhampai":       {"ref":17,"beats":7, "pattern":[4,1,2]},
+    "Tisra Eka":     {"ref":31,"beats":3, "pattern":[3]},
+    "Dhruva":        {"ref":2, "beats":14,"pattern":[4,2,4,4]},
+    "Matya":         {"ref":7, "beats":10,"pattern":[4,2,4]}
+  }
+}

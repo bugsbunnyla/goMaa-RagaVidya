@@ -1,0 +1,21 @@
+{
+  "name": "gomaa-raga-vidya",
+  "version": "1.0.0",
+  "description": "GoMaa Raga Vidya — Carnatic Rāga Intelligence",
+  "main": "backend/server.js",
+  "scripts": {
+    "start":           "node backend/server.js",
+    "dev":             "node backend/server.js",
+    "init-db":         "node scripts/initDB.js",
+    "download-models": "node scripts/downloadModels.js",
+    "ingest":          "node scripts/ingestDataset.js",
+    "test":            "node tests/test.js"
+  },
+  "dependencies": {
+    "cors":    "^2.8.5",
+    "express": "^4.18.2",
+    "multer":  "^1.4.5-lts.1",
+    "sql.js":  "^1.10.2"
+  },
+  "engines": { "node": ">=16" }
+}
